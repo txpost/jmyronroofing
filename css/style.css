@@ -1,0 +1,94 @@
+body {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin: 0 auto;
+  color: #333;
+  font-family: "Georgia", serif;
+  max-width: 1060px;
+}
+
+img {
+  max-width: 100%;
+}
+
+#info {
+  text-align: center;
+  font-size: 1.8em;
+  margin: 2em 0;
+}
+
+.header {
+  text-align: center;
+  margin: 100px auto 50px;
+  max-width: 48rem;
+  padding: 0.9375rem 0.9375rem 3.75rem;
+  font-size: 1.125rem;
+  line-height: 1.6875rem;
+  word-wrap: break-word;
+}
+
+.poster > img {
+  width: 100%;
+  display: block;
+}
+
+.poster-body {
+  margin: 0 auto;
+  max-width: 48rem;
+  padding: 0.9375rem 0.9375rem 3.75rem;
+  font-size: 1.125rem;
+  line-height: 1.6875rem;
+}
+
+.poster-heading {
+  text-align: center;
+}
+
+.icon-arrow-down {
+  content: "\ea50";
+}
+
+.poster-next {
+  color: #ccc;
+  font-size: 2rem;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+}
+
+.poster-links {
+  margin-top: 1.25rem;
+  text-align: center;
+}
+
+.poster-links a {
+  color: #cc3333;
+  display: block;
+  margin: 0 0 0.625rem 0;
+}
+
+a {
+  color: #cc3333;
+  text-decoration: none;
+}
+
+ol#steps {
+  margin: 0 auto;
+}
+
+ol#steps li {
+  margin: 2rem 0;
+}
+
+#quote {
+  background-color: #eee;
+}
+
+.poster-meta {
+  font-family: arial;
+  font-size: 0.7rem;
+  font-style: italic;
+  text-align: right;
+  margin: 0;
+  padding-right: 5px;
+}
